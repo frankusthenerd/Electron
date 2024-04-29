@@ -1,0 +1,7 @@
+{
+  "name": "%project%",
+  "version": "%version%",
+  "description": "%description%",
+  "main": "Electron.js",
+  "author": "Nerd"
+}
